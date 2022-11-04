@@ -1,6 +1,6 @@
 body {
     background-color: rgba(253,210,203,255);
-    font-size: larger;
+    font-size: x-large;
     background-size: 100%;
     background-repeat: no-repeat;
     color: purple;
@@ -26,5 +26,4 @@ h1 {
     color: rgb(130, 34, 179);
     font-family: 'Courier New', Courier, monospace;
     width: 50%;
-    font-size: larger;
 }
