@@ -1,6 +1,6 @@
 body {
     background-color: rgba(253,210,203,255);
-    font-size: x-large;
+    font-size: large;
     background-size: 100%;
     color: purple;
     text-align: left;
@@ -9,7 +9,6 @@ body {
 h1 {
     text-align: center;
     font-family: "Source Sans Pro", sans-serif;
-    font-size: larger !important;
     font-weight: bold;
     color: rgb(125, 34, 209);
     background-color: rgba(250,179,176,255);
