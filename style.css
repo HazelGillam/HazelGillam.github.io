@@ -2,7 +2,6 @@ body {
     background-color: rgba(253,210,203,255);
     font-size: x-large;
     background-size: 100%;
-    background-repeat: no-repeat;
     color: purple;
     text-align: left;
 }
@@ -11,7 +10,6 @@ h1 {
     text-align: center;
     font-family: "Source Sans Pro", sans-serif;
     font-weight: bold;
-    font-size: x-large;
     color: rgb(125, 34, 209);
     background-color: rgba(250,179,176,255);
     border-style: dashed;
@@ -23,7 +21,7 @@ h1 {
 .bandMembers {
     border-style: double;
     border-color: rgb(255, 83, 183);
-    border-width: 7px;
+    border-width: 8px;
     color: rgb(130, 34, 179);
     font-family: 'Courier New', Courier, monospace;
     width: 50%;
